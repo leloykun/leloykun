@@ -1,2 +1,3 @@
 # Hi! I'm Franz Louis Cesista
-(under construction)
+
+I study math 💡, machine learning 🧠, and competitive programming 💻, among other things.
