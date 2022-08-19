@@ -1,4 +1,4 @@
-# Hi! I'm Franz Louis Cesista
+# Hi! I'm Franz Louis Cesista ッ
 
 <p align="center">
   <a href="https://twitter.com/leloykun">
@@ -15,13 +15,13 @@
   </a>
 </p>
 
-I study math 💡, machine learning 🧠, and competitive programming 💻, among other things. I'm currently working at [@Expedock](http://expedock.com/) as a Software Engineer, specializing on data science and machine learning.
+I study math 🔢, machine learning 🧠, and competitive programming 🥇 - among other things. I'm currently working at [@Expedock](http://expedock.com/) as a full-stack software engineer specializing on data science and machine learning.
 
 ## Tech Stack
 | **Layer** | **Tools** |
 | --- | --- |
 | Dev env | <a href="https://www.docker.com/"> <img src="https://img.shields.io/badge/Docker--_.svg?style=social&logo=docker" alt="Docker"> </a> |
-| Cloud services | <a href="https://aws.amazon.com/"> <img src="https://img.shields.io/badge/AWS--_.svg?style=social&logo=amazonaws" alt="AWS"> </a> <a href="https://cloud.google.com/"> <img src="https://img.shields.io/badge/GCP--_.svg?style=social&logo=googlecloud" alt="GCP"> </a> |
+| Cloud | <a href="https://aws.amazon.com/"> <img src="https://img.shields.io/badge/AWS--_.svg?style=social&logo=amazonaws" alt="AWS"> </a> <a href="https://cloud.google.com/"> <img src="https://img.shields.io/badge/GCP--_.svg?style=social&logo=googlecloud" alt="GCP"> </a> |
 | DB | <a href="https://firebase.google.com/"> <img src="https://img.shields.io/badge/Firebase--_.svg?style=social&logo=firebase" alt="Firebase"> </a> <a href="https://www.postgresql.org/"> <img src="https://img.shields.io/badge/PostgreSQL--_.svg?style=social&logo=postgresql" alt="PostgreSQL"> </a> |
 | Backend | <a href="http://www.cplusplus.org/"> <img src="https://img.shields.io/badge/C++--_.svg?style=social&logo=c%2B%2B" alt="C++"> </a> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python--_.svg?style=social&logo=python" alt="Python"> </a> <a href="https://flask.palletsprojects.com/"> <img src="https://img.shields.io/badge/Flask--_.svg?style=social&logo=flask" alt="Flask"> </a> <a href="https://github.com/sqlalchemy/sqlalchemy"> <img src="https://img.shields.io/badge/SQLAlchemy--_.svg?style=social&logo=github" alt="SQLAlchemy"> </a> <a href="https://github.com/sqlalchemy/alembic"> <img src="https://img.shields.io/badge/Alembic--_.svg?style=social&logo=github" alt="Alembic"> </a> |
 | API | <a href="https://en.wikipedia.org/wiki/Representational_state_transfer"> <img src="https://img.shields.io/badge/REST--_.svg?style=social&logo=rest" alt="REST"> </a> <a href="https://graphql.org/"> <img src="https://img.shields.io/badge/GraphQL--_.svg?style=social&logo=graphql" alt="GraphQL"> </a> <a href="https://github.com/strawberry-graphql/strawberry"> <img src="https://img.shields.io/badge/Strawberry--_.svg?style=social&logo=github" alt="Strawberry"> </a> |
