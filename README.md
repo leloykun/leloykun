@@ -47,3 +47,14 @@ I study math 🔢, machine learning 🧠, and competitive programming 🥇 - amo
     - In `density estimation`, we usually fix $X = \mathbb{R}^n$ and $d_{X, p}(x, y) = \sqrt[p]{\sum_i (x_i - y_i)^p}$ then try to find the probability distribution $\mu_X$ of our dataset.
 
 If you're interested in collaborating on a research project with me, just email me at franzlouiscesista@gmail.com
+
+## Summary of My Work
+
+### Personal Projects
+
+**[UNDER CONSTRUCTION]**
+
+### Open-source Contributions
+- <a href="https://github.com/awslabs/autogluon"> <img src="https://img.shields.io/badge/AutoGluon--_.svg?style=social&logo=github" alt="AutoGluon"> </a> Fixed a bug that prevents the feature importances to be calculated on quantile regressors.
+- <a href="https://github.com/MaartenGr/BERTopic"> <img src="https://img.shields.io/badge/BERTopic--_.svg?style=social&logo=github" alt="BERTopic"> </a> Added customizability of barchart vizualizations.
+- <a href="https://github.com/noiph/hurado"> <img src="https://img.shields.io/badge/Hurado--_.svg?style=social&logo=github" alt="Hurado"> </a> Added DevExp tools. Also helps out younger developers in our private discord server.
