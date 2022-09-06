@@ -56,6 +56,6 @@ If you're interested in collaborating on a research project with me, just email 
 - **[UNDER CONSTRUCTION]**
 
 ### Open-source Contributions
-- <a href="https://github.com/awslabs/autogluon"> <img src="https://img.shields.io/badge/AutoGluon--_.svg?style=social&logo=github" alt="AutoGluon"> </a> Fixed a bug that prevents the feature importances to be calculated on quantile regressors.
+- <a href="https://github.com/awslabs/autogluon"> <img src="https://img.shields.io/badge/AutoGluon--_.svg?style=social&logo=github" alt="AutoGluon"> </a> Fixed a bug that prevents feature importances from being calculated on quantile regressors.
 - <a href="https://github.com/MaartenGr/BERTopic"> <img src="https://img.shields.io/badge/BERTopic--_.svg?style=social&logo=github" alt="BERTopic"> </a> Added customizability of barchart vizualizations.
 - <a href="https://github.com/noiph/hurado"> <img src="https://img.shields.io/badge/Hurado--_.svg?style=social&logo=github" alt="Hurado"> </a> Added DevExp tools. Also helps out younger developers in our private discord server.
