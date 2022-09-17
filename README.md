@@ -18,7 +18,7 @@
   </a>
 </p>
 
-I study math 🔢, machine learning 🧠, and competitive programming 🥇 - among other things. I'm currently working at [Expedock](http://expedock.com/) as a full-stack software engineer specializing on data science and machine learning.
+I study math 🔢, machine learning 🧠, and competitive programming 🥇 - among other things. I'm currently working at [Expedock](http://expedock.com/) as a full-stack software engineer specializing on data engineering and machine learning.
 
 ## Tech Stack
 | **Layer** | **Tools** |
@@ -30,7 +30,7 @@ I study math 🔢, machine learning 🧠, and competitive programming 🥇 - amo
 | API | <a href="https://en.wikipedia.org/wiki/Representational_state_transfer"> <img src="https://img.shields.io/badge/REST--_.svg?style=social&logo=rest" alt="REST"> </a> <a href="https://graphql.org/"> <img src="https://img.shields.io/badge/GraphQL--_.svg?style=social&logo=graphql" alt="GraphQL"> </a> <a href="https://github.com/strawberry-graphql/strawberry"> <img src="https://img.shields.io/badge/Strawberry--_.svg?style=social&logo=github" alt="Strawberry"> </a> |
 | Frontend | <a href="https://reactjs.org/"> <img src="https://img.shields.io/badge/React--_.svg?style=social&logo=react" alt="React"> </a> <a href="https://redux.js.org/"> <img src="https://img.shields.io/badge/Redux--_.svg?style=social&logo=redux" alt="Redux"> </a> <a href="https://www.typescriptlang.org/"> <img src="https://img.shields.io/badge/TypeScript--_.svg?style=social&logo=typescript" alt="TypeScript"> </a> <a href="https://vitejs.dev/"> <img src="https://img.shields.io/badge/Vite--_.svg?style=social&logo=vite" alt="Vite"> </a> |
 | ML | <a href="https://www.keras.io/"> <img src="https://img.shields.io/badge/Keras--_.svg?style=social&logo=keras" alt="Keras"> </a> <a href="https://www.tensorflow.org/"> <img src="https://img.shields.io/badge/TensorFlow--_.svg?style=social&logo=tensorflow" alt="Tensorflow"> </a> <a href="https://scikit-learn.org/"> <img src="https://img.shields.io/badge/ScikitLearn--_.svg?style=social&logo=scikitlearn" alt="Scikit-Learn"> </a> <a href="https://github.com/awslabs/autogluon"> <img src="https://img.shields.io/badge/AutoGluon--_.svg?style=social&logo=github" alt="AutoGluon"> </a>  |
-| Data Viz | <a href="https://www.metabase.com/"> <img src="https://img.shields.io/badge/Metabase--_.svg?style=social&logo=metabase" alt="Metabase"> </a> <a href="https://seaborn.pydata.org/"> <img src="https://img.shields.io/badge/Seaborn--_.svg?style=social&logo=github" alt="Seaborn"> </a> |
+| Data Viz | <a href="https://www.metabase.com/"> <img src="https://img.shields.io/badge/Metabase--_.svg?style=social&logo=metabase" alt="Metabase"> </a> <a href="https://seaborn.pydata.org/"> <img src="https://img.shields.io/badge/Seaborn--_.svg?style=social&logo=github" alt="Seaborn"> </a> <a href="https://streamlit.io/"> <img src="https://img.shields.io/badge/Streamlit--_.svg?style=social&logo=streamlit" alt="Streamlit"> </a> |
 
 ## Math/Research Interests
 - **Non-Euclidean Geometry**. More specifically, I'm interested in embedding high-dimensional data into lower-dimensional non-euclidean spaces. Although embedding into euclidean spaces, $\mathbb{R}^n$, is good enough for most cases, there are cases where non-euclidean spaces might be more appropriate. For example:
@@ -56,6 +56,7 @@ If you're interested in collaborating on a research project with me, just email 
 - **[UNDER CONSTRUCTION]**
 
 ### Open-source Contributions
-- <a href="https://github.com/awslabs/autogluon"> <img src="https://img.shields.io/badge/AutoGluon--_.svg?style=social&logo=github" alt="AutoGluon"> </a> Fixed a bug that prevents feature importances from being calculated on quantile regressors.
-- <a href="https://github.com/MaartenGr/BERTopic"> <img src="https://img.shields.io/badge/BERTopic--_.svg?style=social&logo=github" alt="BERTopic"> </a> Added customizability of barchart vizualizations.
-- <a href="https://github.com/noiph/hurado"> <img src="https://img.shields.io/badge/Hurado--_.svg?style=social&logo=github" alt="Hurado"> </a> Added DevExp tools. Also helps out younger developers in our private discord server.
+- <a href="https://github.com/awslabs/autogluon"> <img src="https://img.shields.io/badge/AutoGluon--_.svg?style=social&logo=github" alt="AutoGluon"> </a> Helped debug calculation of feature permutation importances on quantile regressors.
+- <a href="https://github.com/MaartenGr/BERTopic"> <img src="https://img.shields.io/badge/BERTopic--_.svg?style=social&logo=github" alt="BERTopic"> </a> Added customizability options to the visualizations.
+- <a href="https://github.com/noiph/hurado"> <img src="https://img.shields.io/badge/Hurado--_.svg?style=social&logo=github" alt="Hurado"> </a> Added developer tools. Also helps out younger developers in our private discord server.
+
