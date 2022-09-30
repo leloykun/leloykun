@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/franzcesista/">
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
   </a>
-	<a href="https://drive.google.com/file/d/1ZQJv8LYzEPe-JoxEWaM1Ahdi-j2Z0UVK/view?usp=sharing">
+	<a href="https://drive.google.com/file/d/19-7FzpN7bBhBwL5vaCVTan1EhPSCLvjk/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV--_.svg?style=social&logo=giphy" alt="Curriculum Vitae">
   </a>
 </p>
