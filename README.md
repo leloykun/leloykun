@@ -60,3 +60,5 @@ If you're interested in collaborating on a research project with me, just email 
 - <a href="https://github.com/MaartenGr/BERTopic"> <img src="https://img.shields.io/badge/BERTopic--_.svg?style=social&logo=github" alt="BERTopic"> </a> Added customizability options to the visualizations.
 - <a href="https://github.com/noiph/hurado"> <img src="https://img.shields.io/badge/Hurado--_.svg?style=social&logo=github" alt="Hurado"> </a> Added developer tools. Also helps out younger developers in our private discord server.
 
+### Soon to be Open-sourced
+- <a href="https://expedock.github.io/expedock-automl/index.html"> <img src="https://img.shields.io/badge/ExpedockAutoML--_.svg?style=social&logo=github" alt="Expedock AutoML Library"> </a> Expedock's AutoML Library. Train a model on data from Snowflake with *just one line of code* and run predictions with another line of code.
